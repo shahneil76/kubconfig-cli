@@ -249,4 +249,8 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 - Kubernetes community
 - AWS SDK for Go
 - Cobra CLI framework
+
+---
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T8NSVAN)
 ```
